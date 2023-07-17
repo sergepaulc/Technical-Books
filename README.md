@@ -1,8 +1,6 @@
 # Technical_Books
 IP/MPLS over Optical Networks
 
-Technical Book:
-
 This book about “IP/MPLS over optical networks” is for any networking professional, who is working in the communication industry, and has already acquired a great knowledge of computer networking technologies.
 
 It aims, when we need it, to refresh our memories from time to time about the very essentials of optical and Internet technologies which are becoming fundamental to our communication systems.
